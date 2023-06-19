@@ -89,5 +89,5 @@ span{
   background-color: #4070f4;
 }
 .buttons .btn:hover{
-  box-shadow: inset 0 5px 20px #0E4BF1;
+  background-color:  #0E4BF1;
 }
